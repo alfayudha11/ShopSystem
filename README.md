@@ -1,1 +1,2 @@
 # ShopSystem
+Cuma logicnya doang
